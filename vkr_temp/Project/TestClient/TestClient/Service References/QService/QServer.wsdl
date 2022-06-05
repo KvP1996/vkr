@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="QServer" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xs:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <xs:import namespace="http://schemas.datacontract.org/2004/07/QProject" />
+      <xs:element name="GetAlgorithms">
+        <xs:complexType>
+          <xs:sequence />
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="GetAlgorithmsResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/QProject" minOccurs="0" name="GetAlgorithmsResult" nillable="true" type="q1:ArrayOfAlgorithm" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="AddAlgorithm">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/QProject" minOccurs="0" name="alg" nillable="true" type="q2:IDLessAlgorithm" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="AddAlgorithmResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="AddAlgorithmResult" type="xs:long" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="GetAlgorithm">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="id" nillable="true" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="GetAlgorithmResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element xmlns:q3="http://schemas.datacontract.org/2004/07/QProject" minOccurs="0" name="GetAlgorithmResult" nillable="true" type="q3:ArrayOfPlan" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="SetAlgorithm">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="id" nillable="true" type="xs:string" />
+            <xs:element xmlns:q4="http://schemas.datacontract.org/2004/07/QProject" minOccurs="0" name="alg" nillable="true" type="q4:IDLessAlgorithm" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="SetAlgorithmResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="SetAlgorithmResult" type="xs:boolean" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="DeleteAlgorithm">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="id" nillable="true" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="DeleteAlgorithmResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="DeleteAlgorithmResult" type="xs:boolean" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="AddPlan">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element xmlns:q5="http://schemas.datacontract.org/2004/07/QProject" minOccurs="0" name="plan" nillable="true" type="q5:IDLessPlan" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="AddPlanResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="AddPlanResult" type="xs:boolean" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="DeletePlan">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="id" nillable="true" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="DeletePlanResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="DeletePlanResult" type="xs:boolean" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="GetPlansInRange">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element xmlns:q6="http://schemas.datacontract.org/2004/07/QProject" minOccurs="0" name="range" nillable="true" type="q6:Range" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="GetPlansInRangeResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element xmlns:q7="http://schemas.datacontract.org/2004/07/QProject" minOccurs="0" name="GetPlansInRangeResult" nillable="true" type="q7:ArrayOfPlan" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="TestMethod">
+        <xs:complexType>
+          <xs:sequence />
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="TestMethodResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="TestMethodResult" nillable="true" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    </xs:schema>
+    <xs:schema xmlns:tns="http://schemas.microsoft.com/2003/10/Serialization/" attributeFormDefault="qualified" elementFormDefault="qualified" targetNamespace="http://schemas.microsoft.com/2003/10/Serialization/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <xs:element name="anyType" nillable="true" type="xs:anyType" />
+      <xs:element name="anyURI" nillable="true" type="xs:anyURI" />
+      <xs:element name="base64Binary" nillable="true" type="xs:base64Binary" />
+      <xs:element name="boolean" nillable="true" type="xs:boolean" />
+      <xs:element name="byte" nillable="true" type="xs:byte" />
+      <xs:element name="dateTime" nillable="true" type="xs:dateTime" />
+      <xs:element name="decimal" nillable="true" type="xs:decimal" />
+      <xs:element name="double" nillable="true" type="xs:double" />
+      <xs:element name="float" nillable="true" type="xs:float" />
+      <xs:element name="int" nillable="true" type="xs:int" />
+      <xs:element name="long" nillable="true" type="xs:long" />
+      <xs:element name="QName" nillable="true" type="xs:QName" />
+      <xs:element name="short" nillable="true" type="xs:short" />
+      <xs:element name="string" nillable="true" type="xs:string" />
+      <xs:element name="unsignedByte" nillable="true" type="xs:unsignedByte" />
+      <xs:element name="unsignedInt" nillable="true" type="xs:unsignedInt" />
+      <xs:element name="unsignedLong" nillable="true" type="xs:unsignedLong" />
+      <xs:element name="unsignedShort" nillable="true" type="xs:unsignedShort" />
+      <xs:element name="char" nillable="true" type="tns:char" />
+      <xs:simpleType name="char">
+        <xs:restriction base="xs:int" />
+      </xs:simpleType>
+      <xs:element name="duration" nillable="true" type="tns:duration" />
+      <xs:simpleType name="duration">
+        <xs:restriction base="xs:duration">
+          <xs:pattern value="\-?P(\d*D)?(T(\d*H)?(\d*M)?(\d*(\.\d*)?S)?)?" />
+          <xs:minInclusive value="-P10675199DT2H48M5.4775808S" />
+          <xs:maxInclusive value="P10675199DT2H48M5.4775807S" />
+        </xs:restriction>
+      </xs:simpleType>
+      <xs:element name="guid" nillable="true" type="tns:guid" />
+      <xs:simpleType name="guid">
+        <xs:restriction base="xs:string">
+          <xs:pattern value="[\da-fA-F]{8}-[\da-fA-F]{4}-[\da-fA-F]{4}-[\da-fA-F]{4}-[\da-fA-F]{12}" />
+        </xs:restriction>
+      </xs:simpleType>
+      <xs:attribute name="FactoryType" type="xs:QName" />
+      <xs:attribute name="Id" type="xs:ID" />
+      <xs:attribute name="Ref" type="xs:IDREF" />
+    </xs:schema>
+    <xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/QProject" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/QProject" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <xs:import namespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <xs:complexType name="ArrayOfAlgorithm">
+        <xs:sequence>
+          <xs:element minOccurs="0" maxOccurs="unbounded" name="Algorithm" nillable="true" type="tns:Algorithm" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:element name="ArrayOfAlgorithm" nillable="true" type="tns:ArrayOfAlgorithm" />
+      <xs:complexType name="Algorithm">
+        <xs:complexContent mixed="false">
+          <xs:extension base="tns:IDLessAlgorithm">
+            <xs:sequence>
+              <xs:element name="id" type="xs:long" />
+            </xs:sequence>
+          </xs:extension>
+        </xs:complexContent>
+      </xs:complexType>
+      <xs:element name="Algorithm" nillable="true" type="tns:Algorithm" />
+      <xs:complexType name="IDLessAlgorithm">
+        <xs:sequence>
+          <xs:element name="description" nillable="true" type="xs:string" />
+          <xs:element name="name" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:element name="IDLessAlgorithm" nillable="true" type="tns:IDLessAlgorithm" />
+      <xs:complexType name="ArrayOfPlan">
+        <xs:sequence>
+          <xs:element minOccurs="0" maxOccurs="unbounded" name="Plan" nillable="true" type="tns:Plan" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:element name="ArrayOfPlan" nillable="true" type="tns:ArrayOfPlan" />
+      <xs:complexType name="Plan">
+        <xs:complexContent mixed="false">
+          <xs:extension base="tns:IDLessPlan">
+            <xs:sequence>
+              <xs:element name="id" type="xs:long" />
+            </xs:sequence>
+          </xs:extension>
+        </xs:complexContent>
+      </xs:complexType>
+      <xs:element name="Plan" nillable="true" type="tns:Plan" />
+      <xs:complexType name="IDLessPlan">
+        <xs:sequence>
+          <xs:element name="algorithm" type="xs:long" />
+          <xs:element name="dimension" nillable="true" type="tns:Dimension" />
+          <xs:element name="edges" nillable="true" type="tns:ArrayOfEdge" />
+          <xs:element name="vertices" nillable="true" type="tns:ArrayOfVertice" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:element name="IDLessPlan" nillable="true" type="tns:IDLessPlan" />
+      <xs:complexType name="Dimension">
+        <xs:sequence>
+          <xs:element xmlns:q1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" name="paramValue" nillable="true" type="q1:ArrayOflong" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:element name="Dimension" nillable="true" type="tns:Dimension" />
+      <xs:complexType name="ArrayOfEdge">
+        <xs:sequence>
+          <xs:element minOccurs="0" maxOccurs="unbounded" name="Edge" nillable="true" type="tns:Edge" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:element name="ArrayOfEdge" nillable="true" type="tns:ArrayOfEdge" />
+      <xs:complexType name="Edge">
+        <xs:sequence>
+          <xs:element name="fromV" type="xs:long" />
+          <xs:element name="toV" type="xs:long" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:element name="Edge" nillable="true" type="tns:Edge" />
+      <xs:complexType name="ArrayOfVertice">
+        <xs:sequence>
+          <xs:element minOccurs="0" maxOccurs="unbounded" name="Vertice" nillable="true" type="tns:Vertice" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:element name="ArrayOfVertice" nillable="true" type="tns:ArrayOfVertice" />
+      <xs:complexType name="Vertice">
+        <xs:sequence>
+          <xs:element name="content" nillable="true" type="xs:string" />
+          <xs:element name="level" type="xs:int" />
+          <xs:element name="number" type="xs:long" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:element name="Vertice" nillable="true" type="tns:Vertice" />
+      <xs:complexType name="Range">
+        <xs:sequence>
+          <xs:element name="id" type="xs:long" />
+          <xs:element xmlns:q2="http://schemas.microsoft.com/2003/10/Serialization/Arrays" name="lower" nillable="true" type="q2:ArrayOfint" />
+          <xs:element xmlns:q3="http://schemas.microsoft.com/2003/10/Serialization/Arrays" name="upper" nillable="true" type="q3:ArrayOfint" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:element name="Range" nillable="true" type="tns:Range" />
+    </xs:schema>
+    <xs:schema xmlns:tns="http://schemas.microsoft.com/2003/10/Serialization/Arrays" elementFormDefault="qualified" targetNamespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <xs:complexType name="ArrayOflong">
+        <xs:sequence>
+          <xs:element minOccurs="0" maxOccurs="unbounded" name="long" type="xs:long" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:element name="ArrayOflong" nillable="true" type="tns:ArrayOflong" />
+      <xs:complexType name="ArrayOfint">
+        <xs:sequence>
+          <xs:element minOccurs="0" maxOccurs="unbounded" name="int" type="xs:int" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:element name="ArrayOfint" nillable="true" type="tns:ArrayOfint" />
+    </xs:schema>
+  </wsdl:types>
+  <wsdl:message name="IQServer_GetAlgorithms_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAlgorithms" />
+  </wsdl:message>
+  <wsdl:message name="IQServer_GetAlgorithms_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAlgorithmsResponse" />
+  </wsdl:message>
+  <wsdl:message name="IQServer_AddAlgorithm_InputMessage">
+    <wsdl:part name="parameters" element="tns:AddAlgorithm" />
+  </wsdl:message>
+  <wsdl:message name="IQServer_AddAlgorithm_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AddAlgorithmResponse" />
+  </wsdl:message>
+  <wsdl:message name="IQServer_GetAlgorithm_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAlgorithm" />
+  </wsdl:message>
+  <wsdl:message name="IQServer_GetAlgorithm_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAlgorithmResponse" />
+  </wsdl:message>
+  <wsdl:message name="IQServer_SetAlgorithm_InputMessage">
+    <wsdl:part name="parameters" element="tns:SetAlgorithm" />
+  </wsdl:message>
+  <wsdl:message name="IQServer_SetAlgorithm_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SetAlgorithmResponse" />
+  </wsdl:message>
+  <wsdl:message name="IQServer_DeleteAlgorithm_InputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteAlgorithm" />
+  </wsdl:message>
+  <wsdl:message name="IQServer_DeleteAlgorithm_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteAlgorithmResponse" />
+  </wsdl:message>
+  <wsdl:message name="IQServer_AddPlan_InputMessage">
+    <wsdl:part name="parameters" element="tns:AddPlan" />
+  </wsdl:message>
+  <wsdl:message name="IQServer_AddPlan_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AddPlanResponse" />
+  </wsdl:message>
+  <wsdl:message name="IQServer_DeletePlan_InputMessage">
+    <wsdl:part name="parameters" element="tns:DeletePlan" />
+  </wsdl:message>
+  <wsdl:message name="IQServer_DeletePlan_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DeletePlanResponse" />
+  </wsdl:message>
+  <wsdl:message name="IQServer_GetPlansInRange_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetPlansInRange" />
+  </wsdl:message>
+  <wsdl:message name="IQServer_GetPlansInRange_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetPlansInRangeResponse" />
+  </wsdl:message>
+  <wsdl:message name="IQServer_TestMethod_InputMessage">
+    <wsdl:part name="parameters" element="tns:TestMethod" />
+  </wsdl:message>
+  <wsdl:message name="IQServer_TestMethod_OutputMessage">
+    <wsdl:part name="parameters" element="tns:TestMethodResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IQServer">
+    <wsdl:operation name="GetAlgorithms">
+      <wsdl:input wsaw:Action="http://tempuri.org/IQServer/GetAlgorithms" message="tns:IQServer_GetAlgorithms_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IQServer/GetAlgorithmsResponse" message="tns:IQServer_GetAlgorithms_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AddAlgorithm">
+      <wsdl:input wsaw:Action="http://tempuri.org/IQServer/AddAlgorithm" message="tns:IQServer_AddAlgorithm_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IQServer/AddAlgorithmResponse" message="tns:IQServer_AddAlgorithm_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAlgorithm">
+      <wsdl:input wsaw:Action="http://tempuri.org/IQServer/GetAlgorithm" message="tns:IQServer_GetAlgorithm_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IQServer/GetAlgorithmResponse" message="tns:IQServer_GetAlgorithm_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SetAlgorithm">
+      <wsdl:input wsaw:Action="http://tempuri.org/IQServer/SetAlgorithm" message="tns:IQServer_SetAlgorithm_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IQServer/SetAlgorithmResponse" message="tns:IQServer_SetAlgorithm_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteAlgorithm">
+      <wsdl:input wsaw:Action="http://tempuri.org/IQServer/DeleteAlgorithm" message="tns:IQServer_DeleteAlgorithm_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IQServer/DeleteAlgorithmResponse" message="tns:IQServer_DeleteAlgorithm_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AddPlan">
+      <wsdl:input wsaw:Action="http://tempuri.org/IQServer/AddPlan" message="tns:IQServer_AddPlan_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IQServer/AddPlanResponse" message="tns:IQServer_AddPlan_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DeletePlan">
+      <wsdl:input wsaw:Action="http://tempuri.org/IQServer/DeletePlan" message="tns:IQServer_DeletePlan_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IQServer/DeletePlanResponse" message="tns:IQServer_DeletePlan_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetPlansInRange">
+      <wsdl:input wsaw:Action="http://tempuri.org/IQServer/GetPlansInRange" message="tns:IQServer_GetPlansInRange_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IQServer/GetPlansInRangeResponse" message="tns:IQServer_GetPlansInRange_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="TestMethod">
+      <wsdl:input wsaw:Action="http://tempuri.org/IQServer/TestMethod" message="tns:IQServer_TestMethod_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IQServer/TestMethodResponse" message="tns:IQServer_TestMethod_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:service name="QServer" />
+</wsdl:definitions>

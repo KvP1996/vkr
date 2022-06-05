@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="QBaseServer.Determinant.Expression">
+    <Position X="0.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAABAAEAAACAAACAAAAAAAA=</HashCode>
+      <FileName>Determinant\Expression.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QBaseServer.Determinant.Variable">
+    <Position X="4.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Determinant\Variable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QBaseServer.Determinant.BinaryExpression">
+    <Position X="1.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAgAAABIAAAAQAAAAAIAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Determinant\BinaryExpression.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QBaseServer.Determinant.ConditionalPair">
+    <Position X="6.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAgACAAAAAAAAAAAAAAAAAACAAAAAgAAAAAAA=</HashCode>
+      <FileName>Determinant\ConditionalPair.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QBaseServer.Determinant.Number">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAAAAAAACAAAAAgAAAAAAA=</HashCode>
+      <FileName>Determinant\Number.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QBaseServer.Determinant.UnaryExpression">
+    <Position X="8.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAEACAA=</HashCode>
+      <FileName>Determinant\UnaryExpression.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

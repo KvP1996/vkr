@@ -1,0 +1,4 @@
+dimentions: [[3],[2],[4],[5]]
+iterations: [0,0,0,0]
+processors: [233,14,5016,128772]
+ticks: [9,6,12,15]

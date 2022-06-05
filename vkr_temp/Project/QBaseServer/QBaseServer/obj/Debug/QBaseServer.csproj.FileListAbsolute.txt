@@ -1,0 +1,300 @@
+C:\Users\1\Desktop\Study\Распределённое что-то там\Lab3\QBaseServer\QBaseServer\bin\QBaseServer.dll.config
+C:\Users\1\Desktop\Study\Распределённое что-то там\Lab3\QBaseServer\QBaseServer\bin\QBaseServer.dll
+C:\Users\1\Desktop\Study\Распределённое что-то там\Lab3\QBaseServer\QBaseServer\bin\QBaseServer.pdb
+C:\Users\1\Desktop\Study\Распределённое что-то там\Lab3\QBaseServer\QBaseServer\bin\Antlr3.Runtime.dll
+C:\Users\1\Desktop\Study\Распределённое что-то там\Lab3\QBaseServer\QBaseServer\bin\EntityFramework.dll
+C:\Users\1\Desktop\Study\Распределённое что-то там\Lab3\QBaseServer\QBaseServer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\1\Desktop\Study\Распределённое что-то там\Lab3\QBaseServer\QBaseServer\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\1\Desktop\Study\Распределённое что-то там\Lab3\QBaseServer\QBaseServer\bin\Newtonsoft.Json.dll
+C:\Users\1\Desktop\Study\Распределённое что-то там\Lab3\QBaseServer\QBaseServer\bin\System.Web.Mvc.dll
+C:\Users\1\Desktop\Study\Распределённое что-то там\Lab3\QBaseServer\QBaseServer\bin\System.Web.Optimization.dll
+C:\Users\1\Desktop\Study\Распределённое что-то там\Lab3\QBaseServer\QBaseServer\bin\System.Web.Providers.dll
+C:\Users\1\Desktop\Study\Распределённое что-то там\Lab3\QBaseServer\QBaseServer\bin\System.Web.Razor.dll
+C:\Users\1\Desktop\Study\Распределённое что-то там\Lab3\QBaseServer\QBaseServer\bin\System.Web.WebPages.Deployment.dll
+C:\Users\1\Desktop\Study\Распределённое что-то там\Lab3\QBaseServer\QBaseServer\bin\System.Web.WebPages.dll
+C:\Users\1\Desktop\Study\Распределённое что-то там\Lab3\QBaseServer\QBaseServer\bin\System.Web.WebPages.Razor.dll
+C:\Users\1\Desktop\Study\Распределённое что-то там\Lab3\QBaseServer\QBaseServer\bin\WebGrease.dll
+C:\Users\1\Desktop\Study\Распределённое что-то там\Lab3\QBaseServer\QBaseServer\bin\EntityFramework.xml
+C:\Users\1\Desktop\Study\Распределённое что-то там\Lab3\QBaseServer\QBaseServer\bin\Newtonsoft.Json.xml
+C:\Users\1\Desktop\Study\Распределённое что-то там\Lab3\QBaseServer\QBaseServer\bin\System.Web.Mvc.xml
+C:\Users\1\Desktop\Study\Распределённое что-то там\Lab3\QBaseServer\QBaseServer\bin\System.Web.Razor.xml
+C:\Users\1\Desktop\Study\Распределённое что-то там\Lab3\QBaseServer\QBaseServer\bin\System.Web.WebPages.xml
+C:\Users\1\Desktop\Study\Распределённое что-то там\Lab3\QBaseServer\QBaseServer\bin\System.Web.WebPages.Deployment.xml
+C:\Users\1\Desktop\Study\Распределённое что-то там\Lab3\QBaseServer\QBaseServer\bin\System.Web.WebPages.Razor.xml
+C:\Users\1\Desktop\Study\Распределённое что-то там\Lab3\QBaseServer\QBaseServer\bin\ru\EntityFramework.resources.dll
+C:\Users\1\Desktop\Study\Распределённое что-то там\Lab3\QBaseServer\QBaseServer\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\1\Desktop\Study\Распределённое что-то там\Lab3\QBaseServer\QBaseServer\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\1\Desktop\Study\Распределённое что-то там\Lab3\QBaseServer\QBaseServer\bin\ru\System.Web.Providers.resources.dll
+C:\Users\1\Desktop\Study\Распределённое что-то там\Lab3\QBaseServer\QBaseServer\bin\ru\System.Web.Razor.resources.dll
+C:\Users\1\Desktop\Study\Распределённое что-то там\Lab3\QBaseServer\QBaseServer\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\1\Desktop\Study\Распределённое что-то там\Lab3\QBaseServer\QBaseServer\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\1\Desktop\Study\Распределённое что-то там\Lab3\QBaseServer\QBaseServer\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\1\Desktop\Study\Распределённое что-то там\Lab3\QBaseServer\QBaseServer\obj\Debug\QBaseServer.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\Study\Распределённое что-то там\Lab3\QBaseServer\QBaseServer\obj\Debug\QBaseServer.dll
+C:\Users\1\Desktop\Study\Распределённое что-то там\Lab3\QBaseServer\QBaseServer\obj\Debug\QBaseServer.pdb
+C:\Users\1\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\QBaseServer.dll.config
+C:\Users\1\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\QBaseServer.dll
+C:\Users\1\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\QBaseServer.pdb
+C:\Users\1\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\Antlr3.Runtime.dll
+C:\Users\1\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\EntityFramework.dll
+C:\Users\1\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\1\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\1\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\Newtonsoft.Json.dll
+C:\Users\1\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.Mvc.dll
+C:\Users\1\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.Optimization.dll
+C:\Users\1\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.Providers.dll
+C:\Users\1\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.Razor.dll
+C:\Users\1\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.WebPages.Deployment.dll
+C:\Users\1\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.WebPages.dll
+C:\Users\1\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.WebPages.Razor.dll
+C:\Users\1\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\WebGrease.dll
+C:\Users\1\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\EntityFramework.xml
+C:\Users\1\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\Newtonsoft.Json.xml
+C:\Users\1\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.Mvc.xml
+C:\Users\1\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.Razor.xml
+C:\Users\1\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.WebPages.xml
+C:\Users\1\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.WebPages.Deployment.xml
+C:\Users\1\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.WebPages.Razor.xml
+C:\Users\1\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\ru\EntityFramework.resources.dll
+C:\Users\1\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\1\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\1\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\ru\System.Web.Providers.resources.dll
+C:\Users\1\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\ru\System.Web.Razor.resources.dll
+C:\Users\1\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\1\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\1\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\1\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\obj\Debug\QBaseServer.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\obj\Debug\QBaseServer.dll
+C:\Users\1\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\obj\Debug\QBaseServer.pdb
+C:\Users\nikit\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\QBaseServer.dll.config
+C:\Users\nikit\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\QBaseServer.dll
+C:\Users\nikit\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\QBaseServer.pdb
+C:\Users\nikit\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\Antlr3.Runtime.dll
+C:\Users\nikit\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\EntityFramework.dll
+C:\Users\nikit\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nikit\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\nikit\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\Newtonsoft.Json.dll
+C:\Users\nikit\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\System.Net.Http.Formatting.dll
+C:\Users\nikit\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.Http.dll
+C:\Users\nikit\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.Http.WebHost.dll
+C:\Users\nikit\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.Mvc.dll
+C:\Users\nikit\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.Optimization.dll
+C:\Users\nikit\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.Providers.dll
+C:\Users\nikit\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.Razor.dll
+C:\Users\nikit\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nikit\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.WebPages.dll
+C:\Users\nikit\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.WebPages.Razor.dll
+C:\Users\nikit\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\WebGrease.dll
+C:\Users\nikit\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\EntityFramework.xml
+C:\Users\nikit\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\Newtonsoft.Json.xml
+C:\Users\nikit\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\System.Net.Http.Formatting.xml
+C:\Users\nikit\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.Http.xml
+C:\Users\nikit\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.Http.WebHost.xml
+C:\Users\nikit\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.Mvc.xml
+C:\Users\nikit\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.Razor.xml
+C:\Users\nikit\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.WebPages.xml
+C:\Users\nikit\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nikit\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.WebPages.Razor.xml
+C:\Users\nikit\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\ru\EntityFramework.resources.dll
+C:\Users\nikit\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\nikit\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\ru\System.Web.Http.resources.dll
+C:\Users\nikit\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\nikit\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\nikit\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\nikit\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\ru\System.Web.Providers.resources.dll
+C:\Users\nikit\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\ru\System.Web.Razor.resources.dll
+C:\Users\nikit\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\nikit\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\nikit\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\nikit\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\obj\Debug\QBaseServer.csprojResolveAssemblyReference.cache
+C:\Users\nikit\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\obj\Debug\QBaseServer.csproj.CoreCompileInputs.cache
+C:\Users\nikit\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\obj\Debug\QBaseServer.dll
+C:\Users\nikit\Desktop\Study\НИР\Project\QBaseServer\QBaseServer\obj\Debug\QBaseServer.pdb
+C:\Users\1\Desktop\123\НИР\Project\QBaseServer\QBaseServer\bin\QBaseServer.dll.config
+C:\Users\1\Desktop\123\НИР\Project\QBaseServer\QBaseServer\bin\QBaseServer.dll
+C:\Users\1\Desktop\123\НИР\Project\QBaseServer\QBaseServer\bin\QBaseServer.pdb
+C:\Users\1\Desktop\123\НИР\Project\QBaseServer\QBaseServer\bin\Antlr3.Runtime.dll
+C:\Users\1\Desktop\123\НИР\Project\QBaseServer\QBaseServer\bin\EntityFramework.dll
+C:\Users\1\Desktop\123\НИР\Project\QBaseServer\QBaseServer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\1\Desktop\123\НИР\Project\QBaseServer\QBaseServer\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\1\Desktop\123\НИР\Project\QBaseServer\QBaseServer\bin\Newtonsoft.Json.dll
+C:\Users\1\Desktop\123\НИР\Project\QBaseServer\QBaseServer\bin\System.Net.Http.Formatting.dll
+C:\Users\1\Desktop\123\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.Http.dll
+C:\Users\1\Desktop\123\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.Http.WebHost.dll
+C:\Users\1\Desktop\123\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.Mvc.dll
+C:\Users\1\Desktop\123\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.Optimization.dll
+C:\Users\1\Desktop\123\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.Providers.dll
+C:\Users\1\Desktop\123\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.Razor.dll
+C:\Users\1\Desktop\123\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.WebPages.Deployment.dll
+C:\Users\1\Desktop\123\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.WebPages.dll
+C:\Users\1\Desktop\123\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.WebPages.Razor.dll
+C:\Users\1\Desktop\123\НИР\Project\QBaseServer\QBaseServer\bin\WebGrease.dll
+C:\Users\1\Desktop\123\НИР\Project\QBaseServer\QBaseServer\bin\EntityFramework.xml
+C:\Users\1\Desktop\123\НИР\Project\QBaseServer\QBaseServer\bin\Newtonsoft.Json.xml
+C:\Users\1\Desktop\123\НИР\Project\QBaseServer\QBaseServer\bin\System.Net.Http.Formatting.xml
+C:\Users\1\Desktop\123\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.Http.xml
+C:\Users\1\Desktop\123\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.Http.WebHost.xml
+C:\Users\1\Desktop\123\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.Mvc.xml
+C:\Users\1\Desktop\123\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.Razor.xml
+C:\Users\1\Desktop\123\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.WebPages.xml
+C:\Users\1\Desktop\123\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.WebPages.Deployment.xml
+C:\Users\1\Desktop\123\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.WebPages.Razor.xml
+C:\Users\1\Desktop\123\НИР\Project\QBaseServer\QBaseServer\bin\ru\EntityFramework.resources.dll
+C:\Users\1\Desktop\123\НИР\Project\QBaseServer\QBaseServer\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\1\Desktop\123\НИР\Project\QBaseServer\QBaseServer\bin\ru\System.Web.Http.resources.dll
+C:\Users\1\Desktop\123\НИР\Project\QBaseServer\QBaseServer\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\1\Desktop\123\НИР\Project\QBaseServer\QBaseServer\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\1\Desktop\123\НИР\Project\QBaseServer\QBaseServer\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\1\Desktop\123\НИР\Project\QBaseServer\QBaseServer\bin\ru\System.Web.Providers.resources.dll
+C:\Users\1\Desktop\123\НИР\Project\QBaseServer\QBaseServer\bin\ru\System.Web.Razor.resources.dll
+C:\Users\1\Desktop\123\НИР\Project\QBaseServer\QBaseServer\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\1\Desktop\123\НИР\Project\QBaseServer\QBaseServer\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\1\Desktop\123\НИР\Project\QBaseServer\QBaseServer\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\1\Desktop\123\НИР\Project\QBaseServer\QBaseServer\obj\Debug\QBaseServer.dll
+C:\Users\1\Desktop\123\НИР\Project\QBaseServer\QBaseServer\obj\Debug\QBaseServer.pdb
+C:\Users\1\Desktop\123\НИР\Project\QBaseServer\QBaseServer\obj\Debug\QBaseServer.csprojResolveAssemblyReference.cache
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\QBaseServer\QBaseServer\bin\QBaseServer.dll.config
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\QBaseServer\QBaseServer\bin\QBaseServer.dll
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\QBaseServer\QBaseServer\bin\QBaseServer.pdb
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\QBaseServer\QBaseServer\bin\Antlr3.Runtime.dll
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\QBaseServer\QBaseServer\bin\EntityFramework.dll
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\QBaseServer\QBaseServer\bin\Microsoft.Web.Infrastructure.dll
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\QBaseServer\QBaseServer\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\QBaseServer\QBaseServer\bin\Newtonsoft.Json.dll
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\QBaseServer\QBaseServer\bin\System.Net.Http.Formatting.dll
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.Http.dll
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.Http.WebHost.dll
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.Mvc.dll
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.Optimization.dll
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.Providers.dll
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.Razor.dll
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.WebPages.Deployment.dll
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.WebPages.dll
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.WebPages.Razor.dll
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\QBaseServer\QBaseServer\bin\WebGrease.dll
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\QBaseServer\QBaseServer\bin\EntityFramework.xml
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\QBaseServer\QBaseServer\bin\Newtonsoft.Json.xml
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\QBaseServer\QBaseServer\bin\System.Net.Http.Formatting.xml
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.Http.xml
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.Http.WebHost.xml
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.Mvc.xml
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.Razor.xml
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.WebPages.xml
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.WebPages.Deployment.xml
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\QBaseServer\QBaseServer\bin\System.Web.WebPages.Razor.xml
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\QBaseServer\QBaseServer\bin\ru\EntityFramework.resources.dll
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\QBaseServer\QBaseServer\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\QBaseServer\QBaseServer\bin\ru\System.Web.Http.resources.dll
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\QBaseServer\QBaseServer\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\QBaseServer\QBaseServer\bin\ru\System.Web.Mvc.resources.dll
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\QBaseServer\QBaseServer\bin\ru\System.Web.Optimization.resources.dll
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\QBaseServer\QBaseServer\bin\ru\System.Web.Providers.resources.dll
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\QBaseServer\QBaseServer\bin\ru\System.Web.Razor.resources.dll
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\QBaseServer\QBaseServer\bin\ru\System.Web.WebPages.resources.dll
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\QBaseServer\QBaseServer\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\QBaseServer\QBaseServer\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\QBaseServer\QBaseServer\obj\Debug\QBaseServer.dll
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\QBaseServer\QBaseServer\obj\Debug\QBaseServer.pdb
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\QBaseServer\QBaseServer\obj\Debug\QBaseServer.csprojResolveAssemblyReference.cache
+C:\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\QBaseServer.dll.config
+C:\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\QBaseServer.dll
+C:\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\QBaseServer.pdb
+C:\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\Antlr3.Runtime.dll
+C:\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\EntityFramework.dll
+C:\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\Microsoft.Web.Infrastructure.dll
+C:\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\Newtonsoft.Json.dll
+C:\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\System.Net.Http.Formatting.dll
+C:\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\System.Web.Http.dll
+C:\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\System.Web.Http.WebHost.dll
+C:\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\System.Web.Mvc.dll
+C:\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\System.Web.Optimization.dll
+C:\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\System.Web.Providers.dll
+C:\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\System.Web.Razor.dll
+C:\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\System.Web.WebPages.Deployment.dll
+C:\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\System.Web.WebPages.dll
+C:\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\System.Web.WebPages.Razor.dll
+C:\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\WebGrease.dll
+C:\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\EntityFramework.xml
+C:\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\Newtonsoft.Json.xml
+C:\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\System.Net.Http.Formatting.xml
+C:\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\System.Web.Http.xml
+C:\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\System.Web.Http.WebHost.xml
+C:\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\System.Web.Mvc.xml
+C:\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\System.Web.Razor.xml
+C:\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\System.Web.WebPages.xml
+C:\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\System.Web.WebPages.Deployment.xml
+C:\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\System.Web.WebPages.Razor.xml
+C:\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\ru\EntityFramework.resources.dll
+C:\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\ru\System.Web.Http.resources.dll
+C:\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\ru\System.Web.Mvc.resources.dll
+C:\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\ru\System.Web.Optimization.resources.dll
+C:\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\ru\System.Web.Providers.resources.dll
+C:\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\ru\System.Web.Razor.resources.dll
+C:\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\ru\System.Web.WebPages.resources.dll
+C:\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\aleeva\KvP\Project\QBaseServer\QBaseServer\obj\Debug\QBaseServer.csproj.CoreCompileInputs.cache
+C:\aleeva\KvP\Project\QBaseServer\QBaseServer\obj\Debug\QBaseServer.csproj.CopyComplete
+C:\aleeva\KvP\Project\QBaseServer\QBaseServer\obj\Debug\QBaseServer.dll
+C:\aleeva\KvP\Project\QBaseServer\QBaseServer\obj\Debug\QBaseServer.pdb
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\QBaseServer.dll.config
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\QBaseServer.dll
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\QBaseServer.pdb
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\Antlr3.Runtime.dll
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\EntityFramework.dll
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\Microsoft.Web.Infrastructure.dll
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\Newtonsoft.Json.dll
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\System.Net.Http.Formatting.dll
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\System.Web.Http.dll
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\System.Web.Http.WebHost.dll
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\System.Web.Mvc.dll
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\System.Web.Optimization.dll
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\System.Web.Providers.dll
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\System.Web.Razor.dll
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\System.Web.WebPages.Deployment.dll
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\System.Web.WebPages.dll
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\System.Web.WebPages.Razor.dll
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\WebGrease.dll
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\EntityFramework.xml
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\Newtonsoft.Json.xml
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\System.Net.Http.Formatting.xml
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\System.Web.Http.xml
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\System.Web.Http.WebHost.xml
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\System.Web.Mvc.xml
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\System.Web.Razor.xml
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\System.Web.WebPages.xml
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\System.Web.WebPages.Deployment.xml
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\System.Web.WebPages.Razor.xml
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\ru\EntityFramework.resources.dll
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\ru\System.Web.Http.resources.dll
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\ru\System.Web.Mvc.resources.dll
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\ru\System.Web.Optimization.resources.dll
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\ru\System.Web.Providers.resources.dll
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\ru\System.Web.Razor.resources.dll
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\ru\System.Web.WebPages.resources.dll
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\obj\Debug\QBaseServer.csproj.AssemblyReference.cache
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\obj\Debug\QBaseServer.csproj.CoreCompileInputs.cache
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\obj\Debug\QBaseServer.csproj.CopyComplete
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\obj\Debug\QBaseServer.dll
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\obj\Debug\QBaseServer.pdb
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\Npgsql.dll
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\System.Buffers.dll
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\System.Memory.dll
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\System.Threading.Tasks.Extensions.dll
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\System.ValueTuple.dll
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\Npgsql.pdb
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\Npgsql.xml
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\System.Buffers.xml
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\System.Memory.xml
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\System.Threading.Tasks.Extensions.xml
+C:\универ\aleeva\KvP\Project\QBaseServer\QBaseServer\bin\System.ValueTuple.xml

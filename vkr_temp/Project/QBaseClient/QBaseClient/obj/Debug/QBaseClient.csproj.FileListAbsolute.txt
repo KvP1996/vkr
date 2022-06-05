@@ -1,0 +1,81 @@
+C:\Users\1\Desktop\Study\НИР\Project\QBaseClient\QBaseClient\bin\Debug\QBaseClient.exe.config
+C:\Users\1\Desktop\Study\НИР\Project\QBaseClient\QBaseClient\bin\Debug\QBaseClient.exe
+C:\Users\1\Desktop\Study\НИР\Project\QBaseClient\QBaseClient\bin\Debug\QBaseClient.pdb
+C:\Users\1\Desktop\Study\НИР\Project\QBaseClient\QBaseClient\obj\Debug\QBaseClient.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\Study\НИР\Project\QBaseClient\QBaseClient\obj\Debug\QBaseClient.Form1.resources
+C:\Users\1\Desktop\Study\НИР\Project\QBaseClient\QBaseClient\obj\Debug\QBaseClient.Properties.Resources.resources
+C:\Users\1\Desktop\Study\НИР\Project\QBaseClient\QBaseClient\obj\Debug\QBaseClient.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\Study\НИР\Project\QBaseClient\QBaseClient\obj\Debug\QBaseClient.exe
+C:\Users\1\Desktop\Study\НИР\Project\QBaseClient\QBaseClient\obj\Debug\QBaseClient.pdb
+C:\Users\nikit\Desktop\Study\НИР\Project\QBaseClient\QBaseClient\bin\Debug\QBaseClient.exe.config
+C:\Users\nikit\Desktop\Study\НИР\Project\QBaseClient\QBaseClient\bin\Debug\QBaseClient.exe
+C:\Users\nikit\Desktop\Study\НИР\Project\QBaseClient\QBaseClient\bin\Debug\QBaseClient.pdb
+C:\Users\nikit\Desktop\Study\НИР\Project\QBaseClient\QBaseClient\obj\Debug\QBaseClient.csprojResolveAssemblyReference.cache
+C:\Users\nikit\Desktop\Study\НИР\Project\QBaseClient\QBaseClient\obj\Debug\QBaseClient.Form1.resources
+C:\Users\nikit\Desktop\Study\НИР\Project\QBaseClient\QBaseClient\obj\Debug\QBaseClient.Properties.Resources.resources
+C:\Users\nikit\Desktop\Study\НИР\Project\QBaseClient\QBaseClient\obj\Debug\QBaseClient.csproj.GenerateResource.Cache
+C:\Users\nikit\Desktop\Study\НИР\Project\QBaseClient\QBaseClient\obj\Debug\QBaseClient.csproj.CoreCompileInputs.cache
+C:\Users\nikit\Desktop\Study\НИР\Project\QBaseClient\QBaseClient\obj\Debug\QBaseClient.exe
+C:\Users\nikit\Desktop\Study\НИР\Project\QBaseClient\QBaseClient\obj\Debug\QBaseClient.pdb
+C:\Users\1\Desktop\123\НИР\Project\QBaseClient\QBaseClient\obj\Debug\QBaseClient.Form1.resources
+C:\Users\1\Desktop\123\НИР\Project\QBaseClient\QBaseClient\obj\Debug\QBaseClient.Properties.Resources.resources
+C:\Users\1\Desktop\123\НИР\Project\QBaseClient\QBaseClient\obj\Debug\QBaseClient.csproj.GenerateResource.cache
+C:\Users\1\Desktop\123\НИР\Project\QBaseClient\QBaseClient\bin\Debug\QBaseClient.exe.config
+C:\Users\1\Desktop\123\НИР\Project\QBaseClient\QBaseClient\bin\Debug\QBaseClient.exe
+C:\Users\1\Desktop\123\НИР\Project\QBaseClient\QBaseClient\bin\Debug\QBaseClient.pdb
+C:\Users\1\Desktop\123\НИР\Project\QBaseClient\QBaseClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\1\Desktop\123\НИР\Project\QBaseClient\QBaseClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\1\Desktop\123\НИР\Project\QBaseClient\QBaseClient\obj\Debug\QBaseClient.exe
+C:\Users\1\Desktop\123\НИР\Project\QBaseClient\QBaseClient\obj\Debug\QBaseClient.pdb
+C:\Users\1\Desktop\123\НИР\Project\QBaseClient\QBaseClient\obj\Debug\QBaseClient.csprojResolveAssemblyReference.cache
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\QBaseClient\QBaseClient\bin\Debug\QBaseClient.exe.config
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\QBaseClient\QBaseClient\obj\Debug\QBaseClient.Form1.resources
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\QBaseClient\QBaseClient\obj\Debug\QBaseClient.Properties.Resources.resources
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\QBaseClient\QBaseClient\obj\Debug\QBaseClient.csproj.GenerateResource.Cache
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\QBaseClient\QBaseClient\bin\Debug\QBaseClient.exe
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\QBaseClient\QBaseClient\bin\Debug\QBaseClient.pdb
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\QBaseClient\QBaseClient\bin\Debug\Newtonsoft.Json.dll
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\QBaseClient\QBaseClient\bin\Debug\Newtonsoft.Json.xml
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\QBaseClient\QBaseClient\obj\Debug\QBaseClient.exe
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\QBaseClient\QBaseClient\obj\Debug\QBaseClient.pdb
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\QBaseClient\QBaseClient\obj\Debug\QBaseClient.csprojResolveAssemblyReference.cache
+C:\aleeva\KvP\Project\QBaseClient\QBaseClient\bin\Debug\QBaseClient.exe.config
+C:\aleeva\KvP\Project\QBaseClient\QBaseClient\bin\Debug\QBaseClient.exe
+C:\aleeva\KvP\Project\QBaseClient\QBaseClient\bin\Debug\QBaseClient.pdb
+C:\aleeva\KvP\Project\QBaseClient\QBaseClient\bin\Debug\Newtonsoft.Json.dll
+C:\aleeva\KvP\Project\QBaseClient\QBaseClient\bin\Debug\Newtonsoft.Json.xml
+C:\aleeva\KvP\Project\QBaseClient\QBaseClient\obj\Debug\QBaseClient.Form1.resources
+C:\aleeva\KvP\Project\QBaseClient\QBaseClient\obj\Debug\QBaseClient.Properties.Resources.resources
+C:\aleeva\KvP\Project\QBaseClient\QBaseClient\obj\Debug\QBaseClient.csproj.GenerateResource.cache
+C:\aleeva\KvP\Project\QBaseClient\QBaseClient\obj\Debug\QBaseClient.csproj.CoreCompileInputs.cache
+C:\aleeva\KvP\Project\QBaseClient\QBaseClient\obj\Debug\QBaseClient.csproj.CopyComplete
+C:\aleeva\KvP\Project\QBaseClient\QBaseClient\obj\Debug\QBaseClient.exe
+C:\aleeva\KvP\Project\QBaseClient\QBaseClient\obj\Debug\QBaseClient.pdb
+C:\aleeva\KvP\Project\QBaseClient\QBaseClient\obj\Debug\QBaseClient.csprojAssemblyReference.cache
+C:\универ\aleeva\KvP\Project\QBaseClient\QBaseClient\bin\Debug\QBaseClient.exe.config
+C:\универ\aleeva\KvP\Project\QBaseClient\QBaseClient\bin\Debug\QBaseClient.exe
+C:\универ\aleeva\KvP\Project\QBaseClient\QBaseClient\bin\Debug\QBaseClient.pdb
+C:\универ\aleeva\KvP\Project\QBaseClient\QBaseClient\bin\Debug\Newtonsoft.Json.dll
+C:\универ\aleeva\KvP\Project\QBaseClient\QBaseClient\bin\Debug\Newtonsoft.Json.xml
+C:\универ\aleeva\KvP\Project\QBaseClient\QBaseClient\obj\Debug\QBaseClient.csproj.AssemblyReference.cache
+C:\универ\aleeva\KvP\Project\QBaseClient\QBaseClient\obj\Debug\QBaseClient.Form1.resources
+C:\универ\aleeva\KvP\Project\QBaseClient\QBaseClient\obj\Debug\QBaseClient.Properties.Resources.resources
+C:\универ\aleeva\KvP\Project\QBaseClient\QBaseClient\obj\Debug\QBaseClient.csproj.GenerateResource.cache
+C:\универ\aleeva\KvP\Project\QBaseClient\QBaseClient\obj\Debug\QBaseClient.csproj.CoreCompileInputs.cache
+C:\универ\aleeva\KvP\Project\QBaseClient\QBaseClient\obj\Debug\QBaseClient.csproj.CopyComplete
+C:\универ\aleeva\KvP\Project\QBaseClient\QBaseClient\obj\Debug\QBaseClient.exe
+C:\универ\aleeva\KvP\Project\QBaseClient\QBaseClient\obj\Debug\QBaseClient.pdb
+C:\универ\aleeva\KvP\Project\QBaseClient\QBaseClient\bin\Debug\Npgsql.dll
+C:\универ\aleeva\KvP\Project\QBaseClient\QBaseClient\bin\Debug\System.Buffers.dll
+C:\универ\aleeva\KvP\Project\QBaseClient\QBaseClient\bin\Debug\System.Memory.dll
+C:\универ\aleeva\KvP\Project\QBaseClient\QBaseClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\универ\aleeva\KvP\Project\QBaseClient\QBaseClient\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\универ\aleeva\KvP\Project\QBaseClient\QBaseClient\bin\Debug\System.ValueTuple.dll
+C:\универ\aleeva\KvP\Project\QBaseClient\QBaseClient\bin\Debug\Npgsql.pdb
+C:\универ\aleeva\KvP\Project\QBaseClient\QBaseClient\bin\Debug\Npgsql.xml
+C:\универ\aleeva\KvP\Project\QBaseClient\QBaseClient\bin\Debug\System.Buffers.xml
+C:\универ\aleeva\KvP\Project\QBaseClient\QBaseClient\bin\Debug\System.Memory.xml
+C:\универ\aleeva\KvP\Project\QBaseClient\QBaseClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\универ\aleeva\KvP\Project\QBaseClient\QBaseClient\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\универ\aleeva\KvP\Project\QBaseClient\QBaseClient\bin\Debug\System.ValueTuple.xml
+C:\универ\aleeva\KvP\Project\QBaseClient\QBaseClient\obj\Debug\QBaseClient.csproj.SuggestedBindingRedirects.cache

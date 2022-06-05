@@ -1,0 +1,52 @@
+C:\Users\1\Desktop\Study\НИР\Project\TestClient\TestClient\bin\Debug\TestClient.exe.config
+C:\Users\1\Desktop\Study\НИР\Project\TestClient\TestClient\bin\Debug\TestClient.exe
+C:\Users\1\Desktop\Study\НИР\Project\TestClient\TestClient\bin\Debug\TestClient.pdb
+C:\Users\1\Desktop\Study\НИР\Project\TestClient\TestClient\obj\Debug\TestClient.exe
+C:\Users\1\Desktop\Study\НИР\Project\TestClient\TestClient\obj\Debug\TestClient.pdb
+C:\Users\1\Desktop\Study\НИР\Project\TestClient\TestClient\obj\Debug\TestClient.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\Study\НИР\Project\TestClient\TestClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\1\Desktop\Study\НИР\Project\TestClient\TestClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\1\Desktop\Study\НИР\Project\TestClient\TestClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\1\Desktop\Study\НИР\Project\TestClient\TestClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\1\Desktop\123\НИР\Project\TestClient\TestClient\bin\Debug\TestClient.exe.config
+C:\Users\1\Desktop\123\НИР\Project\TestClient\TestClient\bin\Debug\TestClient.exe
+C:\Users\1\Desktop\123\НИР\Project\TestClient\TestClient\bin\Debug\TestClient.pdb
+C:\Users\1\Desktop\123\НИР\Project\TestClient\TestClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\1\Desktop\123\НИР\Project\TestClient\TestClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\1\Desktop\123\НИР\Project\TestClient\TestClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\1\Desktop\123\НИР\Project\TestClient\TestClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\1\Desktop\123\НИР\Project\TestClient\TestClient\obj\Debug\TestClient.exe
+C:\Users\1\Desktop\123\НИР\Project\TestClient\TestClient\obj\Debug\TestClient.pdb
+C:\Users\1\Desktop\123\НИР\Project\TestClient\TestClient\obj\Debug\TestClient.csprojResolveAssemblyReference.cache
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\TestClient\TestClient\bin\Debug\TestClient.exe.config
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\TestClient\TestClient\bin\Debug\TestClient.exe
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\TestClient\TestClient\bin\Debug\TestClient.pdb
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\TestClient\TestClient\bin\Debug\Newtonsoft.Json.dll
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\TestClient\TestClient\bin\Debug\System.Net.Http.Formatting.dll
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\TestClient\TestClient\bin\Debug\Newtonsoft.Json.xml
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\TestClient\TestClient\bin\Debug\System.Net.Http.Formatting.xml
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\TestClient\TestClient\obj\Debug\TestClient.exe
+D:\УНИВЕР\aleeva\диплом 4 курс\НИР\Project\TestClient\TestClient\obj\Debug\TestClient.pdb
+C:\aleeva\KvP\Project\TestClient\TestClient\bin\Debug\TestClient.exe.config
+C:\aleeva\KvP\Project\TestClient\TestClient\bin\Debug\TestClient.exe
+C:\aleeva\KvP\Project\TestClient\TestClient\bin\Debug\TestClient.pdb
+C:\aleeva\KvP\Project\TestClient\TestClient\bin\Debug\Newtonsoft.Json.dll
+C:\aleeva\KvP\Project\TestClient\TestClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\aleeva\KvP\Project\TestClient\TestClient\bin\Debug\Newtonsoft.Json.xml
+C:\aleeva\KvP\Project\TestClient\TestClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\aleeva\KvP\Project\TestClient\TestClient\obj\Debug\TestClient.csproj.CoreCompileInputs.cache
+C:\aleeva\KvP\Project\TestClient\TestClient\obj\Debug\TestClient.csproj.CopyComplete
+C:\aleeva\KvP\Project\TestClient\TestClient\obj\Debug\TestClient.exe
+C:\aleeva\KvP\Project\TestClient\TestClient\obj\Debug\TestClient.pdb
+C:\универ\aleeva\KvP\Project\TestClient\TestClient\bin\Debug\TestClient.exe.config
+C:\универ\aleeva\KvP\Project\TestClient\TestClient\bin\Debug\TestClient.exe
+C:\универ\aleeva\KvP\Project\TestClient\TestClient\bin\Debug\TestClient.pdb
+C:\универ\aleeva\KvP\Project\TestClient\TestClient\bin\Debug\Newtonsoft.Json.dll
+C:\универ\aleeva\KvP\Project\TestClient\TestClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\универ\aleeva\KvP\Project\TestClient\TestClient\bin\Debug\Newtonsoft.Json.xml
+C:\универ\aleeva\KvP\Project\TestClient\TestClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\универ\aleeva\KvP\Project\TestClient\TestClient\obj\Debug\TestClient.csproj.AssemblyReference.cache
+C:\универ\aleeva\KvP\Project\TestClient\TestClient\obj\Debug\TestClient.csproj.CoreCompileInputs.cache
+C:\универ\aleeva\KvP\Project\TestClient\TestClient\obj\Debug\TestClient.csproj.CopyComplete
+C:\универ\aleeva\KvP\Project\TestClient\TestClient\obj\Debug\TestClient.exe
+C:\универ\aleeva\KvP\Project\TestClient\TestClient\obj\Debug\TestClient.pdb
